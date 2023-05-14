@@ -1,12 +1,20 @@
-## Hi there 👋
+# Acadnet.dev
+This is the source code for the Acadnet.dev platform.
 
-<!--
+## Project idea
+The use for this platform is to allow students to practice their engineering skills solving bugs in coding problems. The platform will provide a set of problems that can be solved with a variety of difficulty levels.
 
-**Here are some ideas to get you started:**
+Users will be able to solve the problems online in a VSCode environment and submit their solutions for evaluation.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Continue reading
+The [docs](https://github.com/acadnet-dev/docs) repository contains all the documentation for the project.
+To better understand the idea behind the project you should start with the [user journey](https://github.com/acadnet-dev/docs/blob/master/user-journey.md).
+
+## Repository Structure
+[Web](https://github.com/acadnet-dev/web) - The main website
+
+Checker - TBD
+
+Online VSCode Workspace - TBD
+
+[Docs](https://github.com/acadnet-dev/docs) - The documentation for the entire project
