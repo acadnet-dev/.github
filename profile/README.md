@@ -13,7 +13,7 @@ To better understand the idea behind the project you should start with the [user
 ## Repository Structure
 [Web](https://github.com/acadnet-dev/web) - The main website
 
-Checker - TBD
+[Checker](https://github.com/acadnet-dev/checker) - The submission checker
 
 Online VSCode Workspace - TBD
 
